@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/GameFolder/Scens/BootstrapScene.unity
+    guid: 7f22ecf8a20d211478bdb527be16aa0f
+  - enabled: 1
+    path: Assets/GameFolder/Scens/MenuScene.unity
+    guid: 671bb9970978b9844833ea732844fa35
+  - enabled: 1
+    path: Assets/GameFolder/Scens/GameScene.unity
+    guid: 1be3024a31df8f7408d977da97319e4f
   m_configObjects: {}

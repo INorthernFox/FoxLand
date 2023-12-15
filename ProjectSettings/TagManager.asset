@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Animal
+  - Item
+  - Door
+  - Water
+  - Fly
+  - ship
+  - asteroid
+  - Climb
+  - Stair
   layers:
   - Default
   - TransparentFX
@@ -25,17 +34,17 @@ TagManager:
   - 
   - 
   - 
+  - Animal
+  - 
+  - 
+  - Enemy
   - 
   - 
   - 
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Item
   - 
   m_SortingLayers:
   - name: Default
