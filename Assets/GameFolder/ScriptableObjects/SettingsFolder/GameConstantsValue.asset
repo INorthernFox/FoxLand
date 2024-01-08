@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7491a84861748e686dc5e46d31e6550, type: 3}
+  m_Name: GameConstantsValue
+  m_EditorClassIdentifier: 
+  _fieldSettings:
+    _cellSize: {x: 1.15, y: 1}
+    _gap: {x: 0.05, y: 0.05}
+    _hexagonDisplacementCoefficient: 0.75
+    _projectionMaterial: {fileID: 2100000, guid: 3028700fea4999744ac2eb5d135b96e8, type: 2}
+    _yCellPosition: 1.5
+    _fieldTypeSettings: []
+  _cameraSettings:
+    _camera: {fileID: 9162961990803119511, guid: c99c2279e4dcf5645b3687897a41f1c4, type: 3}
+    _defaultPosition: {x: 0, y: 20, z: 2}
+    _defaultRotation: {x: 90, y: 0, z: 0}
+  _text:
+    _levelInfoUISample: Level \n{Value}
+    _stringType: 1
+    _example: "Use {Value} to indicate where the level value should be entered |
+      Use \\n for line break\nLevel \n001"
